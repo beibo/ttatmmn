@@ -7,14 +7,43 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6924F85FD1EBC86D5DAC3FE5 /* Pods_tattamn.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49883DC048C827981A887B3C /* Pods_tattamn.framework */; };
+		E100733320EA1BBD000E6A1C /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E100733220EA1BBD000E6A1C /* RegisterViewController.swift */; };
+		E100733520EA271A000E6A1C /* RoundedTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = E100733420EA271A000E6A1C /* RoundedTextField.swift */; };
+		E102B08520F39A4800A2BAFC /* RigthSildMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E102B08420F39A4800A2BAFC /* RigthSildMenuViewController.swift */; };
+		E102B08720F39C6900A2BAFC /* ThirdPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E102B08620F39C6900A2BAFC /* ThirdPageViewController.swift */; };
+		E106B90920FA5BC600A126FD /* NewOrderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E106B90820FA5BC600A126FD /* NewOrderViewController.swift */; };
+		E106B90B20FA657900A126FD /* NotificationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E106B90A20FA657900A126FD /* NotificationViewController.swift */; };
+		E106B90D20FA66C300A126FD /* SitingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E106B90C20FA66C300A126FD /* SitingViewController.swift */; };
+		E106B90F20FA680600A126FD /* MyAcountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E106B90E20FA680600A126FD /* MyAcountViewController.swift */; };
+		E10E84B42105C69D008CE05C /* AuthSB.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E10E84B32105C69D008CE05C /* AuthSB.storyboard */; };
+		E11D1F62210415E8008AC932 /* ProfileVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E11D1F61210415E8008AC932 /* ProfileVC.swift */; };
+		E11D518521075AD700352181 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = E11D518421075AD700352181 /* File.swift */; };
+		E11D518721075AF800352181 /* Area.swift in Sources */ = {isa = PBXBuildFile; fileRef = E11D518621075AF800352181 /* Area.swift */; };
+		E1215DD820FE20A000ACA862 /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1215DD720FE20A000ACA862 /* Config.swift */; };
+		E13F2DA420F35FC40062D8A1 /* Reset_passwordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E13F2DA320F35FC40062D8A1 /* Reset_passwordViewController.swift */; };
+		E13F2DA620F3798B0062D8A1 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E13F2DA520F3798B0062D8A1 /* MainViewController.swift */; };
+		E14167C420FC8BD100E99A4B /* OrderSendVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E14167C320FC8BD100E99A4B /* OrderSendVC.swift */; };
+		E142D69C20F4E1EF009DE074 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E142D69B20F4E1EF009DE074 /* CollectionViewCell.swift */; };
+		E142D69E20F4FA2D009DE074 /* CircleImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E142D69D20F4FA2D009DE074 /* CircleImageView.swift */; };
+		E14EA4FE20E8CD5B005B22E1 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E14EA4FD20E8CD5B005B22E1 /* PageViewController.swift */; };
+		E16490842105E359009A128E /* FristPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E16490832105E359009A128E /* FristPageViewController.swift */; };
+		E166375920FC965D00333627 /* orderSB.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E166375820FC965C00333627 /* orderSB.storyboard */; };
+		E166375B20FCA3A300333627 /* ReciveOrderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E166375A20FCA3A300333627 /* ReciveOrderViewController.swift */; };
+		E16ACF7421007708007B8111 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = E16ACF7321007708007B8111 /* User.swift */; };
+		E180A6E820FF2465005CBA1A /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = E180A6E720FF2465005CBA1A /* API.swift */; };
+		E183100720FB4F57002A8C27 /* HomeTabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E183100620FB4F57002A8C27 /* HomeTabBarViewController.swift */; };
+		E1A615F220EA2EAF00C50EBF /* RoundedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1A615F120EA2EAF00C50EBF /* RoundedButton.swift */; };
 		E1AD9F3620E8C4F30071FFBF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1AD9F3520E8C4F30071FFBF /* AppDelegate.swift */; };
-		E1AD9F3820E8C4F30071FFBF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1AD9F3720E8C4F30071FFBF /* ViewController.swift */; };
+		E1AD9F3820E8C4F30071FFBF /* LoginCV.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1AD9F3720E8C4F30071FFBF /* LoginCV.swift */; };
 		E1AD9F3B20E8C4F40071FFBF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1AD9F3920E8C4F40071FFBF /* Main.storyboard */; };
 		E1AD9F3E20E8C4F40071FFBF /* tattamn.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E1AD9F3C20E8C4F40071FFBF /* tattamn.xcdatamodeld */; };
 		E1AD9F4020E8C4F40071FFBF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1AD9F3F20E8C4F40071FFBF /* Assets.xcassets */; };
 		E1AD9F4320E8C4F40071FFBF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1AD9F4120E8C4F40071FFBF /* LaunchScreen.storyboard */; };
 		E1AD9F4E20E8C4F40071FFBF /* tattamnTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1AD9F4D20E8C4F40071FFBF /* tattamnTests.swift */; };
 		E1AD9F5920E8C4F40071FFBF /* tattamnUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1AD9F5820E8C4F40071FFBF /* tattamnUITests.swift */; };
+		E1F722D120F7761D002B64EC /* SlidMenuTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1F722D020F7761D002B64EC /* SlidMenuTableViewCell.swift */; };
+		E1FDAACD20FB67E60050D184 /* sendOrderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1FDAACC20FB67E60050D184 /* sendOrderViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,9 +64,38 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		49883DC048C827981A887B3C /* Pods_tattamn.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_tattamn.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6B63882023B5F5F84C73E95A /* Pods-tattamn.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tattamn.debug.xcconfig"; path = "Pods/Target Support Files/Pods-tattamn/Pods-tattamn.debug.xcconfig"; sourceTree = "<group>"; };
+		DB71EB0FE006BD0293954784 /* Pods-tattamn.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tattamn.release.xcconfig"; path = "Pods/Target Support Files/Pods-tattamn/Pods-tattamn.release.xcconfig"; sourceTree = "<group>"; };
+		E100733220EA1BBD000E6A1C /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
+		E100733420EA271A000E6A1C /* RoundedTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedTextField.swift; sourceTree = "<group>"; };
+		E102B08420F39A4800A2BAFC /* RigthSildMenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RigthSildMenuViewController.swift; sourceTree = "<group>"; };
+		E102B08620F39C6900A2BAFC /* ThirdPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdPageViewController.swift; sourceTree = "<group>"; };
+		E106B90820FA5BC600A126FD /* NewOrderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewOrderViewController.swift; sourceTree = "<group>"; };
+		E106B90A20FA657900A126FD /* NotificationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationViewController.swift; sourceTree = "<group>"; };
+		E106B90C20FA66C300A126FD /* SitingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SitingViewController.swift; sourceTree = "<group>"; };
+		E106B90E20FA680600A126FD /* MyAcountViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAcountViewController.swift; sourceTree = "<group>"; };
+		E10E84B32105C69D008CE05C /* AuthSB.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = AuthSB.storyboard; sourceTree = "<group>"; };
+		E11D1F61210415E8008AC932 /* ProfileVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileVC.swift; sourceTree = "<group>"; };
+		E11D518421075AD700352181 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		E11D518621075AF800352181 /* Area.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Area.swift; sourceTree = "<group>"; };
+		E1215DD720FE20A000ACA862 /* Config.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Config.swift; sourceTree = "<group>"; };
+		E13F2DA320F35FC40062D8A1 /* Reset_passwordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reset_passwordViewController.swift; sourceTree = "<group>"; };
+		E13F2DA520F3798B0062D8A1 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		E14167C320FC8BD100E99A4B /* OrderSendVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderSendVC.swift; sourceTree = "<group>"; };
+		E142D69B20F4E1EF009DE074 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
+		E142D69D20F4FA2D009DE074 /* CircleImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImageView.swift; sourceTree = "<group>"; };
+		E14EA4FD20E8CD5B005B22E1 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
+		E16490832105E359009A128E /* FristPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FristPageViewController.swift; sourceTree = "<group>"; };
+		E166375820FC965C00333627 /* orderSB.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = orderSB.storyboard; sourceTree = "<group>"; };
+		E166375A20FCA3A300333627 /* ReciveOrderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReciveOrderViewController.swift; sourceTree = "<group>"; };
+		E16ACF7321007708007B8111 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		E180A6E720FF2465005CBA1A /* API.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
+		E183100620FB4F57002A8C27 /* HomeTabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTabBarViewController.swift; sourceTree = "<group>"; };
+		E1A615F120EA2EAF00C50EBF /* RoundedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedButton.swift; sourceTree = "<group>"; };
 		E1AD9F3220E8C4F30071FFBF /* tattamn.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tattamn.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1AD9F3520E8C4F30071FFBF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E1AD9F3720E8C4F30071FFBF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E1AD9F3720E8C4F30071FFBF /* LoginCV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginCV.swift; sourceTree = "<group>"; };
 		E1AD9F3A20E8C4F40071FFBF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E1AD9F3D20E8C4F40071FFBF /* tattamn.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = tattamn.xcdatamodel; sourceTree = "<group>"; };
 		E1AD9F3F20E8C4F40071FFBF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -49,6 +107,8 @@
 		E1AD9F5420E8C4F40071FFBF /* tattamnUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tattamnUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1AD9F5820E8C4F40071FFBF /* tattamnUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tattamnUITests.swift; sourceTree = "<group>"; };
 		E1AD9F5A20E8C4F40071FFBF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E1F722D020F7761D002B64EC /* SlidMenuTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlidMenuTableViewCell.swift; sourceTree = "<group>"; };
+		E1FDAACC20FB67E60050D184 /* sendOrderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sendOrderViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +116,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6924F85FD1EBC86D5DAC3FE5 /* Pods_tattamn.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -76,6 +137,88 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7BF5E26B03CDABCC62111E14 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				6B63882023B5F5F84C73E95A /* Pods-tattamn.debug.xcconfig */,
+				DB71EB0FE006BD0293954784 /* Pods-tattamn.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		85A75349AB48116567E0C490 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				49883DC048C827981A887B3C /* Pods_tattamn.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E10E84B22105C612008CE05C /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				E166375820FC965C00333627 /* orderSB.storyboard */,
+				E1AD9F3920E8C4F40071FFBF /* Main.storyboard */,
+				E10E84B32105C69D008CE05C /* AuthSB.storyboard */,
+			);
+			path = Storyboards;
+			sourceTree = "<group>";
+		};
+		E16ACF712100753A007B8111 /* API */ = {
+			isa = PBXGroup;
+			children = (
+				E1215DD720FE20A000ACA862 /* Config.swift */,
+				E180A6E720FF2465005CBA1A /* API.swift */,
+			);
+			path = API;
+			sourceTree = "<group>";
+		};
+		E16ACF722100768A007B8111 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				E16ACF7321007708007B8111 /* User.swift */,
+				E11D518421075AD700352181 /* File.swift */,
+				E11D518621075AF800352181 /* Area.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		E16ACF75210081CC007B8111 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				E142D69D20F4FA2D009DE074 /* CircleImageView.swift */,
+				E142D69B20F4E1EF009DE074 /* CollectionViewCell.swift */,
+				E100733420EA271A000E6A1C /* RoundedTextField.swift */,
+				E1A615F120EA2EAF00C50EBF /* RoundedButton.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		E16ACF76210081F1007B8111 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				E1AD9F3720E8C4F30071FFBF /* LoginCV.swift */,
+				E106B90820FA5BC600A126FD /* NewOrderViewController.swift */,
+				E106B90A20FA657900A126FD /* NotificationViewController.swift */,
+				E106B90C20FA66C300A126FD /* SitingViewController.swift */,
+				E106B90E20FA680600A126FD /* MyAcountViewController.swift */,
+				E183100620FB4F57002A8C27 /* HomeTabBarViewController.swift */,
+				E13F2DA320F35FC40062D8A1 /* Reset_passwordViewController.swift */,
+				E13F2DA520F3798B0062D8A1 /* MainViewController.swift */,
+				E102B08420F39A4800A2BAFC /* RigthSildMenuViewController.swift */,
+				E102B08620F39C6900A2BAFC /* ThirdPageViewController.swift */,
+				E1F722D020F7761D002B64EC /* SlidMenuTableViewCell.swift */,
+				E1FDAACC20FB67E60050D184 /* sendOrderViewController.swift */,
+				E14167C320FC8BD100E99A4B /* OrderSendVC.swift */,
+				E100733220EA1BBD000E6A1C /* RegisterViewController.swift */,
+				E14EA4FD20E8CD5B005B22E1 /* PageViewController.swift */,
+				E166375A20FCA3A300333627 /* ReciveOrderViewController.swift */,
+				E11D1F61210415E8008AC932 /* ProfileVC.swift */,
+				E16490832105E359009A128E /* FristPageViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
 		E1AD9F2920E8C4F30071FFBF = {
 			isa = PBXGroup;
 			children = (
@@ -83,6 +226,8 @@
 				E1AD9F4C20E8C4F40071FFBF /* tattamnTests */,
 				E1AD9F5720E8C4F40071FFBF /* tattamnUITests */,
 				E1AD9F3320E8C4F30071FFBF /* Products */,
+				7BF5E26B03CDABCC62111E14 /* Pods */,
+				85A75349AB48116567E0C490 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -99,10 +244,13 @@
 		E1AD9F3420E8C4F30071FFBF /* tattamn */ = {
 			isa = PBXGroup;
 			children = (
-				E1AD9F3520E8C4F30071FFBF /* AppDelegate.swift */,
-				E1AD9F3720E8C4F30071FFBF /* ViewController.swift */,
-				E1AD9F3920E8C4F40071FFBF /* Main.storyboard */,
+				E10E84B22105C612008CE05C /* Storyboards */,
+				E16ACF722100768A007B8111 /* Model */,
+				E16ACF75210081CC007B8111 /* Views */,
+				E16ACF76210081F1007B8111 /* Controller */,
+				E16ACF712100753A007B8111 /* API */,
 				E1AD9F3F20E8C4F40071FFBF /* Assets.xcassets */,
+				E1AD9F3520E8C4F30071FFBF /* AppDelegate.swift */,
 				E1AD9F4120E8C4F40071FFBF /* LaunchScreen.storyboard */,
 				E1AD9F4420E8C4F40071FFBF /* Info.plist */,
 				E1AD9F3C20E8C4F40071FFBF /* tattamn.xcdatamodeld */,
@@ -135,9 +283,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = E1AD9F5D20E8C4F40071FFBF /* Build configuration list for PBXNativeTarget "tattamn" */;
 			buildPhases = (
+				9EF4C47E9FE881BE81568342 /* [CP] Check Pods Manifest.lock */,
 				E1AD9F2E20E8C4F30071FFBF /* Sources */,
 				E1AD9F2F20E8C4F30071FFBF /* Frameworks */,
 				E1AD9F3020E8C4F30071FFBF /* Resources */,
+				58FE122718180074702015E5 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -237,6 +387,8 @@
 			files = (
 				E1AD9F4320E8C4F40071FFBF /* LaunchScreen.storyboard in Resources */,
 				E1AD9F4020E8C4F40071FFBF /* Assets.xcassets in Resources */,
+				E166375920FC965D00333627 /* orderSB.storyboard in Resources */,
+				E10E84B42105C69D008CE05C /* AuthSB.storyboard in Resources */,
 				E1AD9F3B20E8C4F40071FFBF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -257,14 +409,91 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		58FE122718180074702015E5 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-tattamn/Pods-tattamn-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
+				"${BUILT_PRODUCTS_DIR}/Cosmos/Cosmos.framework",
+				"${BUILT_PRODUCTS_DIR}/KRActivityIndicatorView/KRActivityIndicatorView.framework",
+				"${BUILT_PRODUCTS_DIR}/KRProgressHUD/KRProgressHUD.framework",
+				"${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework",
+				"${BUILT_PRODUCTS_DIR}/SlideMenuControllerSwift/SlideMenuControllerSwift.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Cosmos.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/KRActivityIndicatorView.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/KRProgressHUD.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Kingfisher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SlideMenuControllerSwift.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyJSON.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-tattamn/Pods-tattamn-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9EF4C47E9FE881BE81568342 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-tattamn-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		E1AD9F2E20E8C4F30071FFBF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				E1AD9F3E20E8C4F40071FFBF /* tattamn.xcdatamodeld in Sources */,
-				E1AD9F3820E8C4F30071FFBF /* ViewController.swift in Sources */,
+				E166375B20FCA3A300333627 /* ReciveOrderViewController.swift in Sources */,
+				E102B08720F39C6900A2BAFC /* ThirdPageViewController.swift in Sources */,
+				E16ACF7421007708007B8111 /* User.swift in Sources */,
+				E11D1F62210415E8008AC932 /* ProfileVC.swift in Sources */,
+				E106B90B20FA657900A126FD /* NotificationViewController.swift in Sources */,
+				E142D69C20F4E1EF009DE074 /* CollectionViewCell.swift in Sources */,
+				E100733520EA271A000E6A1C /* RoundedTextField.swift in Sources */,
+				E1FDAACD20FB67E60050D184 /* sendOrderViewController.swift in Sources */,
+				E11D518521075AD700352181 /* File.swift in Sources */,
+				E100733320EA1BBD000E6A1C /* RegisterViewController.swift in Sources */,
+				E102B08520F39A4800A2BAFC /* RigthSildMenuViewController.swift in Sources */,
+				E14167C420FC8BD100E99A4B /* OrderSendVC.swift in Sources */,
+				E142D69E20F4FA2D009DE074 /* CircleImageView.swift in Sources */,
+				E11D518721075AF800352181 /* Area.swift in Sources */,
+				E1AD9F3820E8C4F30071FFBF /* LoginCV.swift in Sources */,
+				E183100720FB4F57002A8C27 /* HomeTabBarViewController.swift in Sources */,
+				E1A615F220EA2EAF00C50EBF /* RoundedButton.swift in Sources */,
+				E106B90F20FA680600A126FD /* MyAcountViewController.swift in Sources */,
+				E106B90920FA5BC600A126FD /* NewOrderViewController.swift in Sources */,
+				E13F2DA420F35FC40062D8A1 /* Reset_passwordViewController.swift in Sources */,
+				E13F2DA620F3798B0062D8A1 /* MainViewController.swift in Sources */,
+				E1215DD820FE20A000ACA862 /* Config.swift in Sources */,
 				E1AD9F3620E8C4F30071FFBF /* AppDelegate.swift in Sources */,
+				E106B90D20FA66C300A126FD /* SitingViewController.swift in Sources */,
+				E1F722D120F7761D002B64EC /* SlidMenuTableViewCell.swift in Sources */,
+				E180A6E820FF2465005CBA1A /* API.swift in Sources */,
+				E14EA4FE20E8CD5B005B22E1 /* PageViewController.swift in Sources */,
+				E16490842105E359009A128E /* FristPageViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -428,6 +657,7 @@
 		};
 		E1AD9F5E20E8C4F40071FFBF /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6B63882023B5F5F84C73E95A /* Pods-tattamn.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -442,6 +672,7 @@
 		};
 		E1AD9F5F20E8C4F40071FFBF /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = DB71EB0FE006BD0293954784 /* Pods-tattamn.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
